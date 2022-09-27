@@ -10,8 +10,8 @@ Clone the Repository `git clone https://github.com/Asif404/Coordinates_api.git`
 
 Add api key in main.py file
 
-Run code `$ uvicorn main:app --reload`
-
+Run `$ uvicorn main:app --reload` to start server
+ 
 ## Working 
 
 Fastapi Provides automatic Documentation and api testing. Goto 127.0.0.1:8000/docs
