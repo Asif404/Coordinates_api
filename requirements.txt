@@ -1,0 +1,4 @@
+dicttoxml==1.7.4
+fastapi==0.85.0
+pydantic==1.10.2
+requests==2.28.1
