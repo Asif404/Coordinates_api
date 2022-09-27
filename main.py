@@ -48,7 +48,7 @@ async def coordinates(data: RequestsData):
             response_json=json.dumps(response_dict,indent=4) 
             # Convert Dictionary to json
 
-            return Response(content=response_json) 
+            return Response(content=response_json,media_type="application/json") 
             # Sending Json response
 
 
