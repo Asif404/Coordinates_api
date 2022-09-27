@@ -12,5 +12,9 @@ Clone the Repository
 
 Add api key in main.py file
 
+Run code `$ uvicorn main:app --reload`
+
+
+
 
 
