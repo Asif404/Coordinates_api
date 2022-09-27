@@ -18,18 +18,18 @@ Run code `$ uvicorn main:app --reload`
 
 Fastapi Provides automatic Documentation and api testing. Goto 127.0.0.1:8000/docs
 
-![fastapi](1.png)
+![fastapi](img/1.png)
 
 Click **Try it out** and Execute 
 
-![fastapi](3.png)
+![fastapi](img/3.png)
 
 Response
 
-![fastapi](4.png)
+![fastapi](img/4.png)
 
 This can be Used with other api clients like Postman,Thunder client
 
-![Thunder Client](4.png)
+![Thunder Client](img/5.png)
 
 
